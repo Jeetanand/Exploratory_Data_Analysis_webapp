@@ -2,6 +2,8 @@
 
 Welcome to the Exploratory Data Analysis (EDA) Web App! This application is designed to assist users in analyzing datasets through a simple and interactive interface.
 
+![image](https://github.com/Jeetanand/Exploratory_Data_Analysis_webapp/assets/128984571/03a52e1c-33a4-4c12-bdb6-3447db66c9b2)
+
 ## Features
 
 - **Data Upload**: Upload a CSV file to start the analysis.
